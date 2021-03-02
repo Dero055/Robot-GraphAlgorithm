@@ -1,0 +1,8 @@
+{
+    "python.linting.enabled": true,
+    "python.terminal.activateEnvironment": true,
+    "python.envFile": "${workspaceFolder}/.env",
+    "python.pythonPath": "env/bin/python",
+    "python.linting.flake8Enabled": true,
+    "python.linting.pylintEnabled": false
+}
