@@ -1,5 +1,11 @@
 # Đồ án Trí Tuệ Nhân Tạo - Robot Tìm Đường
 
+## Nhóm 22
+
+- 1712159 - Nguyễn Đỗ Chí Thảo
+- 1712202 - Nguyễn Trọng Văn
+- 1712209 - Lê Quang Vũ
+
 ## Khởi tạo môi trường phát triển
 
 #### Git
